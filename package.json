@@ -1,0 +1,15 @@
+{
+  "name": "inject-css-string",
+  "version": "1.0.0",
+  "description": "Inject an unique CSS string via a `<style>` tag into the `<head>`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "LSVH",
+  "repository": "LSVH/inject-css-string",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
